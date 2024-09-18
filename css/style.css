@@ -297,6 +297,10 @@
     padding-bottom: 30px !important;
 }
 
+.projectImg{
+    width: 100px !important;
+}
+
 
 /*** Team ***/
 .team-item img {
@@ -427,4 +431,9 @@
 
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
+}
+
+#letWork{
+    font-size: 35px;
+    color: var(--secondary);
 }
